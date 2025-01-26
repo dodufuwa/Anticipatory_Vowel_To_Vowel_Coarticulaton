@@ -1,0 +1,15 @@
+/ə/ followed by /ɑ/ will have a larger average F1 value than /ə/ followed by /ʌ/.
+
+/ə/ followed by /ɑ/ will have a smaller average F2 value than /ə/ followed by /ʌ/.
+
+/ə/ followed by /æ/ will have a larger average F1 value than /ə/ followed by /ʌ/.
+
+/ə/ followed by /æ/ will have a larger average F2 value than /ə/ followed by /ʌ/.
+
+/ə/ followed by /i/ will have a smaller average F1 value than /ə/ followed by /ʌ/.
+
+/ə/ followed by /i/ will have a larger average F2 value than /ə/ followed by /ʌ/.
+
+/ə/ followed by /u/ will have a smaller average F1 value than /ə/ followed by /ʌ/.
+
+/ə/ followed by /u/ will have a smaller average F2 value than /ə/ followed by /ʌ/.
